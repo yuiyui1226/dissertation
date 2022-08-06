@@ -1,0 +1,111 @@
+,Province,Region,2015 GDP(in mil. of Euro),2015 GDP(mil. of US$ PPP),2015 GDP percapita (in Euro),2015 GDP percapita (in US$ PPP)
+0,Metropolitan City of Turin,Piedmont,69305,93316,30304,40803
+1,Vercelli,Piedmont,4725,6362,26922,36249
+2,Biella,Piedmont,4610,6207,25556,34410
+3,Verbano-Cusio-Ossola,Piedmont,3733,5026,23259,31317
+4,Novara,Piedmont,10416,14025,28078,37805
+5,Cuneo,Piedmont,17987,24219,30423,40962
+6,Asti,Piedmont,5368,7228,24575,33090
+7,Alessandria,Piedmont,11722,15783,27238,36674
+8,Aosta Valley,Aosta Valley,4404,5930,34457,46395
+9,Imperia,Liguria,5024,6765,23256,31313
+10,Savona,Liguria,7667,10323,27221,36651
+11,Metropolitan City of Genoa,Liguria,28753,38715,33506,45114
+12,La Spezia,Liguria,6514,8771,29431,39628
+13,Varese,Lombardy,25779,34710,28960,38993
+14,Como,Lombardy,16310,21961,27193,36614
+15,Lecco,Lombardy,9903,13334,29148,39246
+16,Sondrio,Lombardy,5149,6933,28307,38114
+17,Bergamo,Lombardy,33795,45503,30485,41046
+18,Brescia,Lombardy,39322,52945,31095,41867
+19,Pavia,Lombardy,13188,17757,24052,32384
+20,Lodi,Lombardy,5679,7647,24746,33320
+21,Cremona,Lombardy,10294,13860,28513,38391
+22,Mantua,Lombardy,12377,16665,29904,40264
+23,Metropolitan City of Milan,Lombardy,162652,219003,50786,78381
+24,Monza and Brianza,Lombardy,24901,33528,28777,42746
+25,L'Aquila,Abruzzo,7286,9810,23962,32264
+26,Teramo,Abruzzo,7093,9550,22825,30733
+27,Pescara,Abruzzo,7764,10454,24084,32428
+28,Chieti,Abruzzo,9551,12860,24374,32818
+29,Isernia,Molise,1663,2239,19199,25850
+30,Campobasso,Molise,4372,5887,19339,26039
+31,Caserta,Campania,14536,19572,15723,21170
+32,Benevento,Campania,4508,6070,16014,21562
+33,Metropolitan City of Naples,Campania,56553,76146,18149,24437
+34,Avellino,Campania,7467,10054,17502,23566
+35,Salerno,Campania,19358,26065,17479,23534
+36,Taranto,Apulia,9780,13168,16655,22425
+37,Brindisi,Apulia,7246,9756,18129,24410
+38,Lecce,Apulia,12715,17120,15789,21259
+39,Foggia,Apulia,10670,14367,16874,22719
+40,Metropolitan City of Bari,Apulia,2822,34831,22945,27532
+41,Barletta-Andria-Trani,Apulia,5888,7928,14946,20124
+42,Potenza,Basilicata,8585,11559,22942,30890
+43,Matera,Basilicata,3417,4601,17004,22895
+44,Cosenza,Calabria,10772,14504,15045,20258
+45,Crotone,Calabria,2733,3680,15660,21086
+46,Catanzaro,Calabria,6587,8869,18127,24407
+47,Vibo Valentia,Calabria,2447,3295,15032,20239
+48,Reggio Calabria,Calabria,9901,13331,17778,23938
+49,Trapani,Sicily,6735,9068,15446,20798
+50,Metropolitan City of Palermo,Sicily,23223,31269,18229,24544
+51,Metropolitan City of Messina,Sicily,10980,14784,17076,22993
+52,Agrigento,Sicily,6558,8830,14690,19779
+53,Caltanissetta,Sicily,4163,5605,15255,20540
+54,Enna,Sicily,2608,3512,15297,20597
+55,Metropolitan City of Catania,Sicily,19405,26128,17384,23407
+56,Ragusa,Sicily,5570,7500,17428,23466
+57,Syracuse,Sicily,7419,9989,18339,24692
+58,Sassari,Sardinia,6315,8503,18884,25426
+59,Nuoro,Sardinia,2943,3963,18656,25120
+60,Metropolitan City of Cagliari,Sardinia,13593,18302,24204,32589
+61,Oristano,Sardinia,2831,3812,17462,23512
+62,Olbia-Tempio,Sardinia,3547,4776,22147,29819
+63,Ogliastra,Sardinia,1002,1349,17432,23471
+64,Medio Campidano,Sardinia,1434,1931,14379,19360
+65,Carbonia-Iglesias,Sardinia,2048,2758,16068,21634
+66,South Tyrol,Trentino-Alto Adige,21603,29087,41568,55970
+67,Trentino,Trentino-Alto Adige,18608,25055,34599,46586
+68,Verona,Veneto,29406,39594,31858,42896
+69,Vicenza,Veneto,27697,37293,31890,42938
+70,Belluno,Veneto,6547,8815,31570,42508
+71,Treviso,Veneto,26867,36175,30311,40813
+72,Metropolitan City of Venice,Veneto,25887,34856,30208,40674
+73,Padua,Veneto,30146,40590,32153,43292
+74,Rovigo,Veneto,6107,8223,25284,34043
+75,Pordenone,Friuli-Venezia Giulia,9217,12410,29412,39601
+76,Udine,Friuli-Venezia Giulia,15708,21150,29376,39553
+77,Gorizia,Friuli-Venezia Giulia,3656,4923,26007,35017
+78,Trieste,Friuli-Venezia Giulia,7886,10618,33490,45093
+79,Piacenza,Emilia-Romagna,8929,12023,31056,41816
+80,Parma,Emilia-Romagna,15672,21102,35093,47250
+81,Reggio Emilia,Emilia-Romagna,17961,24184,33694,45368
+82,Modena,Emilia-Romagna,25296,34060,36034,48518
+83,Metropolitan City of Bologna,Emilia-Romagna,39502,52668,38918,52402
+84,Ferrara,Emilia-Romagna,9016,12140,25559,34414
+85,Ravenna,Emilia-Romagna,12058,16236,30779,41442
+86,Forlì-Cesena,Emilia-Romagna,12157,16369,30758,41414
+87,Rimini,Emilia-Romagna,9489,12777,28297,38101
+88,Massa and Carrara,Tuscany,4657,6270,23454,31579
+89,Lucca,Tuscany,10543,14196,26871,36181
+90,Pistoia,Tuscany,7302,9832,24986,33643
+91,Metropolitan City of Florence,Tuscany,36097,48603,35642,47990
+92,Prato,Tuscany,7395,9957,29222,39346
+93,Livorno,Tuscany,8818,11873,26049,35074
+94,Pisa,Tuscany,12429,16735,29497,39717
+95,Arezzo,Tuscany,9445,12717,27315,36778
+96,Siena,Tuscany,8196,11036,30374,40897
+97,Grosseto,Tuscany,5299,7135,23649,31842
+98,Perugia,Umbria,16436,22130,24785,33372
+99,Terni,Umbria,5030,6773,21885,29467
+100,Pesaro and Urbino,Marche,9314,12541,25697,34599
+101,Ancona,Marche,13855,18655,29044,39106
+102,Macerata,Marche,7866,10591,24496,32983
+103,Ascoli Piceno,Marche,5181,6976,24593,33113
+104,Fermo,Marche,4202,5658,23875,32147
+105,Viterbo,Lazio,6559,8831,20425,27502
+106,Rieti,Lazio,2943,3963,18542,24966
+107,Metropolitan City of Rome,Lazio,150315,202392,34625,46621
+108,Latina,Lazio,12524,16863,21844,29411
+109,Frosinone,Lazio,10659,14352,21490,28935
